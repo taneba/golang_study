@@ -2,11 +2,11 @@
 
 次のような関数を持っている
 
-| func  | description  |
-|---|---|
-| newDeck  | Create and return a list of playing cards. Essentially an array of strings  |
-| print  | Log out the contents of a deck of cards  |
-| shuffle  | Shuffles all the cards in a deck  |
-| deal  | Create a 'hand' of cards  |
-| saveToFile  | Save a list of cards to a file on the local machine  |
-| newDeckFromFile  | Load a list of cards from the local machine  |
+|  関数名 | 説明 |
+|  ------ | ------ |
+|  newDeck | カードのリストを作成して返す。stringの配列 |
+|  print | カードを出力する |
+|  shuffle | デッキのカードをシャッフルする |
+|  deal | 手札を作成する |
+|  saveToFile | カードのリストをローカルマシンに保存する |
+|  newDeckFromFile | ローカルマシンのファイルからカードのリストを読み込む |
